@@ -68,7 +68,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://danielmatama.github.io/matama-todo-list/)
+- [Live Demo Link](https://danielmatama.github.io/todo-list-matama/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
