@@ -93,11 +93,6 @@ i {
   display: inline;
 }
 
-.icon-vert {
-  padding-left: 3px;
-  padding-right: 3px;
-}
-
 .inline {
   display: inline;
 }
@@ -121,5 +116,5 @@ input[type="checkbox"] {
 }
 
 .fa-ellipsis-vertical {
-  cursor: pointer;
+  cursor: move;
 }
