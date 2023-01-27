@@ -21,7 +21,9 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-**[To-do list page]** is a web page where you can add your to-do tasks, and also remove them when completed.
+**[To-do list page]** 
+A todo list is a tool that allows you to keep track of tasks or activities that need to be completed. It can be a physical list written on a piece of paper or a digital list stored on a computer or phone. Todo lists can be used for personal or professional purposes, and can help you stay organized and manage your time effectively.
+  In summery, it is a web page where you can add your to-do tasks, mark as read, and also remove them when completed, with easse and efficiency.
 
 ## 🛠 Built With <a name="built-with">HTML_CSS_JS</a>
 
